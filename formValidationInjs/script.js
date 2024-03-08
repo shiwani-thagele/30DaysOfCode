@@ -72,3 +72,7 @@ function isValidEmail(e){
    var reg = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
    return reg.test(e);  
 }
+// function vital(a,b){
+//     return a+b
+// }
+// vital(2,3);
